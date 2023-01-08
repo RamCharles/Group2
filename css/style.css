@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MainFont';
+    src: url('/fonts/Iori\ Bold.otf') format("opentype");    
+}
+
+body{
+    scroll-behavior: smooth;
+    /*font-family:'MainFont';*/
+}
