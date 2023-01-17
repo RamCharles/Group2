@@ -7,3 +7,21 @@ body{
     scroll-behavior: smooth;
     /*font-family:'MainFont';*/
 }
+
+#large-image {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.img-thumbnail {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  background-color: black;
+  color: white;
+}
